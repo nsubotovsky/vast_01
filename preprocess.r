@@ -2,17 +2,14 @@ rm(list=ls())
 gc()
 
 
-
-library(dplyr)
 library(plyr)
+library(dplyr)
 library(readr)
 library(data.table)
 library(lubridate)
 library(tidyverse)
 library(purrr)
 library(glue)
-
-
 
 
 ############ graph paths ##############
@@ -41,7 +38,7 @@ graph.get.path.full <- function()
 
 refdata.get.path.template <- function()
 {
-    return( file.path( getwd(), "data", "template", "CGCS-Template.csv" ) )
+    return( file.path( getwd(), "data", "template", "CGCS-Template-NodeTypes.csv" ) )
 }
 
 refdata.get.path.full <- function()
@@ -113,8 +110,6 @@ graph.process.prefixTypes <- function( dt, refdata )
     return( dt );
 }
 
-
-
 refdata.process.types <- function( dt )
 {
     return( dt %>%
@@ -127,8 +122,6 @@ refdata.process.types <- function( dt )
     );
 }
 
-
-
 refdata.nodetypes.load <- function( path )
 {
     graph <- read_csv(path, 
@@ -137,56 +130,91 @@ refdata.nodetypes.load <- function( path )
     ) %>% as.data.table()
 }
 
+graph.process.financial.swap <- function( dt )
+{
+    dt <- dt %>%
+            rowwise() %>%
+            dplyr::mutate( Weight=ifelse( toString( Source ) %>% startsWith( 'pers_' ), Weight, -Weight ) )
+    
+    dt[ dt$Weight<0 ,c('Source', 'Target')] <- dt[ dt$Weight<0 ,c('Target', 'Source')]
+    return( dt )
+}
+
+graph.process.translate.finance <- function( dt, demographicsDt )
+{
+    financialDt <- dt[ dt$eType == '5_financial', ]
+    categories <- ( financialDt %>% select( Target ) %>% left_join( ( demographicsDt %>% dplyr::rename(Target=NodeID) ), by='Target' ) )$Category
+    dt[ dt$eType == '5_financial', c('Target') ] <- categories
+    return( dt )
+}
+
+refdata.demographics.load <- function( path )
+{
+    
+    dt <- read_csv(path, 
+                   col_types = cols(NodeID = col_integer())
+
+    ) %>% as.data.table()
+    return( dt )
+}
 
 
+## process all candidates
 
 nodetypes <- refdata.get.path.full() %>%
     refdata.nodetypes.load() %>%
     refdata.process.types()
 
 
-g2 <- graph.get.path.candidate( 1 ) %>%
+demographics <- refdata.get.path.demographics() %>%
+    refdata.demographics.load() %>%
+    rowwise() %>%
+    dplyr::mutate( NodeID=paste0( "fin_", ( NodeID %>% toString() ) ) )
+
+
+for (i in 1:5)
+{
+    path <- graph.get.path.candidate( i )
+    sprintf('Working on %s', path) %>% print()
+    
+    graph <- graph.get.path.candidate( 1 ) %>%
+        graph.load() %>%
+        graph.process.edges() %>%
+        graph.process.dates() %>%
+        
+        graph.process.prefixTypes( nodetypes ) %>%
+        graph.process.financial.swap() %>%
+        graph.process.translate.finance( demographics )
+    
+    
+    newPath <- path %>% str_replace( '.csv', '.fix.csv' )
+    sprintf('saving on %s', newPath) %>% print()
+    graph %>% write_csv( newPath )
+}
+
+
+
+## do for template
+
+nodetypes <- refdata.get.path.template() %>%
+    refdata.nodetypes.load() %>%
+    refdata.process.types()
+
+
+path <- graph.get.path.template()
+sprintf('Working on %s', path) %>% print()
+
+graph <- graph.get.path.template() %>%
     graph.load() %>%
     graph.process.edges() %>%
     graph.process.dates() %>%
-
-    graph.process.prefixTypes( nodetypes )
-
-
-g3 <- g2 %>% filter(eType=='5_financial')
-
-
-g3 %>% colnames()
+    
+    graph.process.prefixTypes( nodetypes ) %>%
+    graph.process.financial.swap() %>%
+    graph.process.translate.finance( demographics )
 
 
-g4 <- g3 %>% rowwise() %>%
-    dplyr::mutate( Weight=ifelse( toString( Source ) %>% startsWith( 'pers_' ), Weight, -Weight ) )
-
-g4[ g4$Weight<0 ,c('Source', 'Target')] <- g4[ g4$Weight<0 ,c('Target', 'Source')]
-
-
-
-mutate_if()
-
-g3[g3$Source %>% toString() %>% startsWith( 'pers_' ),  ]
-
-
-g4$aaa %>% unique()
-
-
-##########################################
-
-
-
-aaa<- graph[complete.cases(graph),]
-
-
-a <- graph %>% filter(  eType == "6_travels" ) %>% select( Target, TargetLocation, TargetLatitude, TargetLongitude)
-b <- graph %>% filter(  eType == "6_travels" ) %>% select( Source, SourceLocation, SourceLatitude, SourceLongitude)
-
-# sorting stuff...
-# select(Source, everything())
-
-
-####################
+newPath <- path %>% str_replace( '.csv', '.fix.csv' )
+sprintf('saving on %s', newPath) %>% print()
+graph %>% write_csv( newPath )
 

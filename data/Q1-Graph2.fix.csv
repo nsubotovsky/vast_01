@@ -1,0 +1,1217 @@
+Source,eType,Target,Time,Weight,SourceLocation,TargetLocation,SourceLatitude,SourceLongitude,TargetLatitude,TargetLongitude
+pers_616050,4_author,doc_590502,2004-01-09,0.166667,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_490041,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_490041,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_635665,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-01-16,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-01-17,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_589639,2025-01-17,1,0,0,34.5741,-42.0541,30.4483,-42.5341
+pers_599956,1_phone,pers_635665,2025-01-17,1,0,0,34.2958,-39.026,29.3296,-37.8076
+pers_599956,0_emails,pers_589639,2025-01-17,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-01-18,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_490041,1_phone,pers_635665,2025-01-18,1,0,0,34.5741,-42.0541,29.3296,-37.8076
+pers_599956,1_phone,pers_589639,2025-01-18,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_599956,1_phone,pers_589639,2025-01-18,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_599956,0_emails,pers_589639,2025-01-19,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_589639,2025-01-19,1,0,0,34.5741,-42.0541,30.4483,-42.5341
+pers_599956,0_emails,pers_635665,2025-01-19,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_589639,2025-01-19,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_635665,2025-01-19,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_490041,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_635665,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_589639,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_589639,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-01-20,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_589639,2025-01-20,1,0,0,34.5741,-42.0541,30.4483,-42.5341
+pers_490041,1_phone,pers_589639,2025-01-21,1,0,0,34.5741,-42.0541,30.4483,-42.5341
+pers_490041,1_phone,pers_635665,2025-01-21,1,0,0,34.5741,-42.0541,29.3296,-37.8076
+pers_490041,1_phone,pers_599956,2025-01-21,1,0,0,34.5741,-42.0541,34.2958,-39.026
+pers_490041,0_emails,pers_599956,2025-01-21,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-01-21,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_490041,0_emails,pers_589639,2025-01-22,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-01-22,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-01-22,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_490041,0_emails,pers_589639,2025-01-22,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-01-22,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_490041,1_phone,pers_635665,2025-01-22,1,0,0,34.5741,-42.0541,29.3296,-37.8076
+pers_599956,0_emails,pers_635665,2025-01-22,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-01-22,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_589639,2025-01-22,1,0,0,34.5741,-42.0541,30.4483,-42.5341
+pers_533140,0_emails,pers_591682,2025-01-27,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_616050,2025-02-01,1,NA,NA,NA,NA,NA,NA
+pers_632150,1_phone,pers_635665,2025-02-02,1,2,0,-27.2563,91.7676,29.3296,-37.8076
+pers_635665,1_phone,pers_568093,2025-02-08,1,0,0,29.3296,-37.8076,28.3004,-47.4036
+pers_616050,1_phone,pers_632150,2025-02-10,1,2,2,-20.9062,92.3982,-27.2563,91.7676
+pers_632150,1_phone,pers_568093,2025-02-14,1,2,0,-27.2563,91.7676,28.3004,-47.4036
+pers_568093,0_emails,pers_632150,2025-02-14,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_464459,2025-02-17,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_616050,2025-02-18,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_616050,2025-02-20,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_533140,2025-02-25,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_512397,2025-03-03,1,NA,NA,NA,NA,NA,NA
+pers_632150,1_phone,pers_635665,2025-03-06,1,2,0,-27.2563,91.7676,29.3296,-37.8076
+pers_635665,0_emails,pers_550287,2025-03-07,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_635665,2025-03-08,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_559657,2025-03-08,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_616050,2025-03-10,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_635665,2025-03-12,1,NA,NA,NA,NA,NA,NA
+pers_533140,1_phone,pers_591682,2025-03-12,1,2,2,-21.8004,89.7045,-22.6503,92.6106
+pers_635665,0_emails,pers_550287,2025-03-13,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_512397,2025-03-13,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_591682,2025-03-15,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_464459,2025-03-17,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_512397,2025-03-18,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_533140,2025-03-19,1,0,2,29.3296,-37.8076,-21.8004,89.7045
+pers_635665,0_emails,pers_559657,2025-03-19,1,NA,NA,NA,NA,NA,NA
+pers_616050,1_phone,pers_533140,2025-03-20,1,2,2,-20.9062,92.3982,-21.8004,89.7045
+pers_533140,1_phone,pers_616050,2025-03-22,1,2,2,-21.8004,89.7045,-20.9062,92.3982
+pers_568093,0_emails,pers_632150,2025-03-23,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_559657,2025-03-24,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_559657,2025-03-24,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_635665,2025-03-25,1,NA,NA,NA,NA,NA,NA
+pers_632150,1_phone,pers_464459,2025-03-28,1,2,0,-27.2563,91.7676,25.0754,-40.6293
+pers_635665,0_emails,pers_559657,2025-03-28,1,NA,NA,NA,NA,NA,NA
+pers_616050,1_phone,pers_533140,2025-03-29,1,2,2,-20.9062,92.3982,-21.8004,89.7045
+pers_635665,0_emails,pers_512397,2025-03-29,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_464459,2025-03-30,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_464459,2025-04-01,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_512397,2025-04-04,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_533140,2025-04-06,1,0,2,29.3296,-37.8076,-21.8004,89.7045
+pers_512397,0_emails,pers_635665,2025-04-06,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_635665,2025-04-07,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_492777,2025-04-07,1,0,3,34.2958,-39.026,-24.5657,-110.65
+pers_599956,0_emails,pers_570411,2025-04-07,1,NA,NA,NA,NA,NA,NA
+pers_589639,0_emails,pers_635665,2025-04-07,1,NA,NA,NA,NA,NA,NA
+pers_550287,0_emails,pers_512397,2025-04-08,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_490041,2025-04-08,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_493044,2025-04-09,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-04-11,1,NA,NA,NA,NA,NA,NA
+pers_550287,0_emails,pers_512397,2025-04-11,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_492777,2025-04-11,1,0,3,34.2958,-39.026,-24.5657,-110.65
+pers_599956,1_phone,pers_492777,2025-04-12,1,0,3,34.2958,-39.026,-24.5657,-110.65
+pers_596193,0_emails,pers_635665,2025-04-12,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_596193,2025-04-12,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_492777,2025-04-12,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_493044,2025-04-12,1,0,2,34.2958,-39.026,-20.8686,89.4217
+pers_490041,0_emails,pers_599956,2025-04-12,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_589639,2025-04-12,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-04-13,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_635665,2025-04-13,1,0,0,34.2958,-39.026,29.3296,-37.8076
+pers_550287,0_emails,pers_512397,2025-04-14,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_550361,2025-04-14,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_640464,2025-04-14,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-04-14,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_568093,0_emails,pers_632150,2025-04-14,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_493044,2025-04-15,1,0,2,34.2958,-39.026,-20.8686,89.4217
+pers_599956,0_emails,pers_570411,2025-04-15,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-04-15,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_596193,0_emails,pers_492777,2025-04-15,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_616050,2025-04-16,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_635665,2025-04-16,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_550361,2025-04-16,1,0,2,34.5741,-42.0541,-18.3758,91.025
+pers_599956,1_phone,pers_570411,2025-04-16,1,0,0,34.2958,-39.026,32.6654,-48.6701
+pers_616050,1_phone,pers_464459,2025-04-16,1,2,0,-20.9062,92.3982,25.0754,-40.6293
+pers_623295,0_emails,pers_589639,2025-04-16,1,NA,NA,NA,NA,NA,NA
+pers_589639,0_emails,pers_550361,2025-04-17,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_635665,2025-04-17,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_596193,2025-04-17,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_640464,2025-04-17,1,NA,NA,NA,NA,NA,NA
+pers_490041,1_phone,pers_623295,2025-04-18,1,0,3,34.5741,-42.0541,-25.4639,-111.249
+pers_599956,1_phone,pers_596193,2025-04-18,1,0,2,34.2958,-39.026,-17.1099,90.7971
+pers_599956,0_emails,pers_490041,2025-04-19,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_550361,2025-04-19,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_570411,2025-04-19,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_623295,2025-04-19,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_640464,2025-04-19,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_640464,2025-04-20,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-04-21,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_623295,0_emails,pers_570411,2025-04-21,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_616050,2025-04-21,1,0,2,29.3296,-37.8076,-20.9062,92.3982
+pers_599956,0_emails,pers_550361,2025-04-22,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-04-22,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_599956,0_emails,pers_490041,2025-04-22,1,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_570411,2025-04-22,1,NA,NA,NA,NA,NA,NA
+pers_568093,0_emails,pers_632150,2025-04-23,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_490041,2025-04-24,1,NA,NA,NA,NA,NA,NA
+pers_632150,1_phone,pers_533140,2025-04-24,1,2,2,-27.2563,91.7676,-21.8004,89.7045
+pers_589639,0_emails,pers_490041,2025-04-25,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_635665,2025-04-25,1,0,0,34.2958,-39.026,29.3296,-37.8076
+pers_616050,1_phone,pers_635665,2025-04-25,1,2,0,-20.9062,92.3982,29.3296,-37.8076
+pers_589639,0_emails,pers_490041,2025-04-25,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_493044,2025-04-25,1,NA,NA,NA,NA,NA,NA
+pers_464459,1_phone,pers_632150,2025-04-25,1,0,2,25.0754,-40.6293,-27.2563,91.7676
+pers_490041,1_phone,pers_640464,2025-04-26,1,0,0,34.5741,-42.0541,35.8806,-34.5372
+pers_599956,1_phone,pers_623295,2025-04-26,1,0,3,34.2958,-39.026,-25.4639,-111.249
+pers_599956,1_phone,pers_490041,2025-04-26,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_623295,0_emails,pers_570411,2025-04-27,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_599956,2025-04-28,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_493044,2025-04-28,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_493044,2025-04-29,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_623295,2025-04-29,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_632150,2025-04-29,1,0,2,29.3296,-37.8076,-27.2563,91.7676
+pers_490041,0_emails,pers_492777,2025-04-29,1,NA,NA,NA,NA,NA,NA
+pers_550287,2_sell,prod_657187,2025-04-29,170,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-04-29,170,NA,NA,NA,NA,NA,NA
+pers_599956,0_emails,pers_635665,2025-05-01,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_640464,2025-05-01,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_493044,2025-05-01,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-05-01,1,NA,NA,NA,NA,NA,NA
+pers_632150,1_phone,pers_464459,2025-05-01,1,2,0,-27.2563,91.7676,25.0754,-40.6293
+pers_632150,1_phone,pers_591682,2025-05-01,1,2,2,-27.2563,91.7676,-22.6503,92.6106
+pers_599956,1_phone,pers_550361,2025-05-02,1,0,2,34.2958,-39.026,-18.3758,91.025
+pers_616050,1_phone,pers_533140,2025-05-02,1,2,2,-20.9062,92.3982,-21.8004,89.7045
+pers_623295,0_emails,pers_550361,2025-05-02,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-05-03,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_599956,0_emails,pers_550361,2025-05-03,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_490041,2025-05-03,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_490041,2025-05-03,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_492777,2025-05-03,1,0,3,34.2958,-39.026,-24.5657,-110.65
+pers_623295,0_emails,pers_599956,2025-05-03,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_599956,2025-05-04,1,NA,NA,NA,NA,NA,NA
+pers_616050,1_phone,pers_533140,2025-05-07,1,2,2,-20.9062,92.3982,-21.8004,89.7045
+pers_632150,1_phone,pers_533140,2025-05-08,1,2,2,-27.2563,91.7676,-21.8004,89.7045
+pers_632150,1_phone,pers_464459,2025-05-09,1,2,0,-27.2563,91.7676,25.0754,-40.6293
+pers_568093,0_emails,pers_591682,2025-05-13,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_616050,2025-05-13,1,NA,NA,NA,NA,NA,NA
+pers_533140,0_emails,pers_591682,2025-05-14,1,NA,NA,NA,NA,NA,NA
+pers_550287,2_sell,prod_657187,2025-05-25,314,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-05-25,314,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-05-27,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-06-16,1,NA,NA,NA,NA,NA,NA
+pers_550287,2_sell,prod_657187,2025-06-17,445,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-06-17,445,NA,NA,NA,NA,NA,NA
+pers_629627,6_travels,count_625756,2025-06-21,4,4,3,1,-165,-25,-111
+pers_629627,6_travels,count_657173,2025-06-22,2,3,1,-25,-111,-29,-13
+pers_599441,6_travels,count_657173,2025-06-26,5,3,1,-25,-111,-29,-13
+pers_534034,6_travels,count_657173,2025-06-29,3,3,1,-25,-111,-29,-13
+pers_512397,0_emails,pers_550287,2025-07-03,1,NA,NA,NA,NA,NA,NA
+pers_534034,6_travels,count_625756,2025-07-06,4,4,3,1,-165,-25,-111
+pers_550287,2_sell,prod_657187,2025-07-08,792,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-07-08,792,NA,NA,NA,NA,NA,NA
+pers_599441,6_travels,count_625756,2025-07-10,4,4,3,1,-165,-25,-111
+pers_585212,6_travels,count_657173,2025-07-10,5,3,1,-25,-111,-29,-13
+pers_550287,2_sell,prod_657187,2025-07-14,331,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-07-14,331,NA,NA,NA,NA,NA,NA
+pers_585212,6_travels,count_625756,2025-07-14,5,4,3,1,-165,-25,-111
+pers_550287,2_sell,prod_657187,2025-07-23,430,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-07-23,430,NA,NA,NA,NA,NA,NA
+pers_550287,2_sell,prod_657187,2025-07-24,122,NA,NA,NA,NA,NA,NA
+pers_512397,3_buy,prod_657187,2025-07-24,122,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-07-29,1,NA,NA,NA,NA,NA,NA
+pers_599441,6_travels,count_509607,2025-07-30,4,2,4,-22,91,1,-165
+pers_585212,6_travels,count_509607,2025-07-30,3,2,4,-22,91,1,-165
+pers_534034,6_travels,count_499467,2025-08-02,5,1,2,-29,-13,-22,91
+pers_629627,6_travels,count_499467,2025-08-04,2,1,2,-29,-13,-22,91
+pers_585212,6_travels,count_499467,2025-08-05,5,1,2,-29,-13,-22,91
+pers_599441,6_travels,count_499467,2025-08-06,2,1,2,-29,-13,-22,91
+pers_623295,1_phone,pers_635665,2025-08-19,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_623295,0_emails,pers_492777,2025-08-20,1,NA,NA,NA,NA,NA,NA
+pers_538892,6_travels,count_509607,2025-08-21,1,2,4,-22,91,1,-165
+pers_623295,1_phone,pers_635665,2025-08-22,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_635665,0_emails,pers_492777,2025-08-22,1,NA,NA,NA,NA,NA,NA
+pers_512397,0_emails,pers_550287,2025-08-23,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_623295,2025-08-24,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_492777,2025-08-26,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_492777,2025-08-26,1,3,3,-25.4639,-111.249,-24.5657,-110.65
+pers_542965,6_travels,count_509607,2025-08-26,5,2,4,-22,91,1,-165
+pers_635665,0_emails,pers_492777,2025-08-27,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_492777,2025-08-29,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_550361,2025-08-30,1,3,2,-24.5657,-110.65,-18.3758,91.025
+pers_492777,1_phone,pers_623295,2025-08-30,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_635665,0_emails,pers_623295,2025-08-30,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_550361,2025-08-30,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_596193,2025-08-30,1,3,2,-24.5657,-110.65,-17.1099,90.7971
+pers_550361,1_phone,pers_596193,2025-08-30,1,2,2,-18.3758,91.025,-17.1099,90.7971
+pers_635665,1_phone,pers_493044,2025-08-30,1,0,2,29.3296,-37.8076,-20.8686,89.4217
+pers_635665,1_phone,pers_493044,2025-08-30,1,0,2,29.3296,-37.8076,-20.8686,89.4217
+pers_492777,1_phone,pers_493044,2025-08-31,1,3,2,-24.5657,-110.65,-20.8686,89.4217
+pers_596193,0_emails,pers_623295,2025-08-31,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_635665,2025-08-31,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_623295,2025-08-31,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_550361,1_phone,pers_623295,2025-08-31,1,2,3,-18.3758,91.025,-25.4639,-111.249
+pers_623295,1_phone,pers_635665,2025-08-31,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_464459,6_travels,count_625756,2025-08-31,1,0,3,33,-41,-25,-111
+pers_492777,0_emails,pers_596193,2025-09-01,1,NA,NA,NA,NA,NA,NA
+pers_623295,0_emails,pers_492777,2025-09-01,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_550361,2025-09-02,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_493044,2025-09-02,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_550361,2025-09-02,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_635665,2025-09-02,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_550361,1_phone,pers_493044,2025-09-02,1,2,2,-18.3758,91.025,-20.8686,89.4217
+pers_635665,0_emails,pers_492777,2025-09-02,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_623295,2025-09-02,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_493044,2025-09-02,1,3,2,-25.4639,-111.249,-20.8686,89.4217
+pers_568093,6_travels,count_625756,2025-09-02,2,0,3,33,-41,-25,-111
+pers_572391,6_travels,count_509607,2025-09-02,2,2,4,-22,91,1,-165
+pers_596193,0_emails,pers_623295,2025-09-03,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_492777,2025-09-04,1,3,3,-25.4639,-111.249,-24.5657,-110.65
+pers_635665,0_emails,pers_492777,2025-09-04,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_635665,2025-09-04,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_596193,2025-09-04,1,0,2,29.3296,-37.8076,-17.1099,90.7971
+pers_492777,1_phone,pers_623295,2025-09-05,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_492777,1_phone,pers_635665,2025-09-05,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_635665,6_travels,count_499467,2025-09-05,1,3,2,-25,-111,-22,91
+pers_623295,1_phone,pers_635665,2025-09-06,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_635665,1_phone,pers_550361,2025-09-06,1,0,2,29.3296,-37.8076,-18.3758,91.025
+pers_623295,1_phone,pers_635665,2025-09-07,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_492777,0_emails,pers_596193,2025-09-07,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_623295,2025-09-07,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_635665,2025-09-08,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_550361,2025-09-08,1,3,2,-25.4639,-111.249,-18.3758,91.025
+pers_596193,0_emails,pers_493044,2025-09-09,1,NA,NA,NA,NA,NA,NA
+pers_550361,1_phone,pers_493044,2025-09-09,1,2,2,-18.3758,91.025,-20.8686,89.4217
+pers_623295,0_emails,pers_635665,2025-09-09,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_492777,2025-09-10,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_492777,2025-09-10,1,3,3,-25.4639,-111.249,-24.5657,-110.65
+pers_635665,0_emails,pers_492777,2025-09-10,1,NA,NA,NA,NA,NA,NA
+pers_623295,1_phone,pers_635665,2025-09-10,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_635665,6_travels,count_625756,2025-09-10,1,0,3,33,-41,-25,-111
+pers_635665,1_phone,pers_492777,2025-09-11,1,0,3,29.3296,-37.8076,-24.5657,-110.65
+pers_464459,6_travels,count_499467,2025-09-11,2,3,2,-25,-111,-22,91
+pers_492777,1_phone,pers_623295,2025-09-12,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_635665,0_emails,pers_623295,2025-09-12,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_492777,2025-09-13,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_493044,2025-09-14,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_623295,2025-09-14,1,0,3,29.3296,-37.8076,-25.4639,-111.249
+pers_492777,1_phone,pers_623295,2025-09-14,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_596193,0_emails,pers_550361,2025-09-15,1,NA,NA,NA,NA,NA,NA
+pers_550361,0_emails,pers_596193,2025-09-16,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_623295,2025-09-16,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_493044,2025-09-17,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_492777,2025-09-17,1,0,3,29.3296,-37.8076,-24.5657,-110.65
+pers_596193,0_emails,pers_550361,2025-09-17,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_635665,2025-09-17,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_635665,2025-09-17,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_623295,2025-09-17,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_635665,2025-09-17,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_492777,1_phone,pers_623295,2025-09-17,1,3,3,-24.5657,-110.65,-25.4639,-111.249
+pers_623295,1_phone,pers_635665,2025-09-18,1,3,0,-25.4639,-111.249,29.3296,-37.8076
+pers_550361,0_emails,pers_635665,2025-09-18,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_550361,2025-09-19,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_492777,2025-09-19,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_493044,2025-09-19,1,3,2,-24.5657,-110.65,-20.8686,89.4217
+pers_550361,1_phone,pers_493044,2025-09-19,1,2,2,-18.3758,91.025,-20.8686,89.4217
+pers_568093,6_travels,count_499467,2025-09-19,2,3,2,-25,-111,-22,91
+pers_596193,0_emails,pers_635665,2025-09-20,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_596193,2025-09-21,1,0,2,29.3296,-37.8076,-17.1099,90.7971
+pers_492777,1_phone,pers_635665,2025-09-21,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_635665,1_phone,pers_493044,2025-09-21,1,0,2,29.3296,-37.8076,-20.8686,89.4217
+pers_492777,0_emails,pers_493044,2025-09-21,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_623295,2025-09-21,1,NA,NA,NA,NA,NA,NA
+pers_492777,1_phone,pers_493044,2025-09-22,1,3,2,-24.5657,-110.65,-20.8686,89.4217
+pers_492777,0_emails,pers_635665,2025-09-24,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_623295,2025-09-24,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_596193,2025-09-24,1,NA,NA,NA,NA,NA,NA
+pers_492777,0_emails,pers_635665,2025-09-24,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_550361,2025-09-24,1,0,2,29.3296,-37.8076,-18.3758,91.025
+pers_635665,1_phone,pers_493044,2025-09-24,1,0,2,29.3296,-37.8076,-20.8686,89.4217
+pers_492777,1_phone,pers_635665,2025-09-25,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_492777,1_phone,pers_635665,2025-09-25,1,3,0,-24.5657,-110.65,29.3296,-37.8076
+pers_635665,1_phone,pers_596193,2025-09-25,1,0,2,29.3296,-37.8076,-17.1099,90.7971
+pers_492777,0_emails,pers_493044,2025-09-26,1,NA,NA,NA,NA,NA,NA
+pers_596193,0_emails,pers_623295,2025-09-26,1,NA,NA,NA,NA,NA,NA
+pers_589639,1_phone,pers_635665,2025-10-05,1,0,0,30.4483,-42.5341,29.3296,-37.8076
+pers_599956,1_phone,pers_490041,2025-10-05,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_490041,0_emails,pers_635665,2025-10-05,1,NA,NA,NA,NA,NA,NA
+pers_589639,1_phone,pers_490041,2025-10-06,1,0,0,30.4483,-42.5341,34.5741,-42.0541
+pers_490041,0_emails,pers_589639,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_599956,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_599956,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-10-06,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_599956,1_phone,pers_490041,2025-10-06,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_589639,1_phone,pers_599956,2025-10-06,1,0,0,30.4483,-42.5341,34.2958,-39.026
+pers_635665,0_emails,pers_599956,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_589639,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_490041,0_emails,pers_589639,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_599956,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_635665,0_emails,pers_589639,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_589639,2025-10-06,1,0,0,34.2958,-39.026,30.4483,-42.5341
+pers_490041,0_emails,pers_589639,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-10-06,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_490041,0_emails,pers_635665,2025-10-06,1,NA,NA,NA,NA,NA,NA
+pers_599956,1_phone,pers_490041,2025-10-06,1,0,0,34.2958,-39.026,34.5741,-42.0541
+pers_635665,1_phone,pers_570411,2025-10-07,1,0,0,29.3296,-37.8076,32.6654,-48.6701
+pers_570411,0_emails,pers_640464,2025-10-08,1,NA,NA,NA,NA,NA,NA
+pers_570411,0_emails,pers_640464,2025-10-09,1,NA,NA,NA,NA,NA,NA
+pers_570411,0_emails,pers_640464,2025-10-09,1,NA,NA,NA,NA,NA,NA
+pers_640464,1_phone,pers_635665,2025-10-11,1,0,0,35.8806,-34.5372,29.3296,-37.8076
+pers_570411,0_emails,pers_635665,2025-10-11,1,NA,NA,NA,NA,NA,NA
+pers_635665,1_phone,pers_640464,2025-10-11,1,0,0,29.3296,-37.8076,35.8806,-34.5372
+pers_635665,1_phone,pers_640464,2025-10-12,1,0,0,29.3296,-37.8076,35.8806,-34.5372
+pers_568093,6_travels,count_561157,2025-10-12,2,2,0,-22,91,33,-41
+pers_635665,6_travels,count_561157,2025-10-12,1,2,0,-22,91,33,-41
+pers_640464,1_phone,pers_570411,2025-10-13,1,0,0,35.8806,-34.5372,32.6654,-48.6701
+pers_640464,1_phone,pers_570411,2025-10-13,1,0,0,35.8806,-34.5372,32.6654,-48.6701
+pers_635665,1_phone,pers_640464,2025-10-14,1,0,0,29.3296,-37.8076,35.8806,-34.5372
+pers_640464,1_phone,pers_635665,2025-10-14,1,0,0,35.8806,-34.5372,29.3296,-37.8076
+pers_640464,1_phone,pers_570411,2025-10-15,1,0,0,35.8806,-34.5372,32.6654,-48.6701
+pers_640464,1_phone,pers_635665,2025-10-16,1,0,0,35.8806,-34.5372,29.3296,-37.8076
+pers_640464,1_phone,pers_570411,2025-10-16,1,0,0,35.8806,-34.5372,32.6654,-48.6701
+pers_635665,1_phone,pers_570411,2025-10-16,1,0,0,29.3296,-37.8076,32.6654,-48.6701
+pers_464459,6_travels,count_561157,2025-10-16,1,2,0,-22,91,33,-41
+pers_640464,1_phone,pers_635665,2025-10-17,1,0,0,35.8806,-34.5372,29.3296,-37.8076
+pers_570411,0_emails,pers_635665,2025-10-18,1,NA,NA,NA,NA,NA,NA
+pers_640464,1_phone,pers_570411,2025-10-18,1,0,0,35.8806,-34.5372,32.6654,-48.6701
+pers_635665,1_phone,pers_570411,2025-10-19,1,0,0,29.3296,-37.8076,32.6654,-48.6701
+pers_649553,6_travels,count_509607,2025-11-04,4,5,4,22,156,1,-165
+pers_570284,6_travels,count_509607,2025-11-05,1,5,4,22,156,1,-165
+pers_643925,6_travels,count_625756,2025-11-15,2,4,3,1,-165,-25,-111
+pers_649553,6_travels,count_625756,2025-11-17,3,4,3,1,-165,-25,-111
+pers_643925,6_travels,count_509607,2025-11-20,5,5,4,22,156,1,-165
+pers_570284,6_travels,count_616453,2025-12-07,5,0,5,33,-41,22,156
+pers_649553,6_travels,count_616453,2025-12-08,5,0,5,33,-41,22,156
+pers_643925,6_travels,count_561157,2025-12-15,4,3,0,-25,-111,33,-41
+pers_643925,6_travels,count_616453,2025-12-15,3,0,5,33,-41,22,156
+pers_570284,6_travels,count_561157,2025-12-16,2,3,0,-25,-111,33,-41
+pers_649553,6_travels,count_561157,2025-12-16,2,3,0,-25,-111,33,-41
+pers_608827,5_financial,Rented dwellings,2026-01-01,21699.3,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Money income before taxes,2026-01-01,-143858,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Personal insurance and pensions,2026-01-01,15088.4,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Alcohol,2026-01-01,456.71,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Water and other public services,2026-01-01,2378.6,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Groceries,2026-01-01,5362.15,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Electricity,2026-01-01,1689.16,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Lodging away from home,2026-01-01,8444.03,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Housekeeping supplies,2026-01-01,2111.52,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Telephone services,2026-01-01,385.87,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Donations,2026-01-01,1006.36,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Apparel and services,2026-01-01,6192.98,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Household operations,2026-01-01,6393.29,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Miscellaneous,2026-01-01,2935.06,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Personal care products and services,2026-01-01,116.31,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Household furnishings,2026-01-01,4951.15,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Personal taxes,2026-01-01,19480.8,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Transportation,2026-01-01,14153.4,NA,NA,NA,NA,NA,NA
+pers_608827,5_financial,Mortgage payments,2026-01-01,12677.5,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Rented dwellings,2026-01-01,25079.4,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Home maintenance,2026-01-01,9368.15,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Gifts,2026-01-01,-1840.81,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Healthcare,2026-01-01,12000,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Money income before taxes,2026-01-01,-647030,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Personal insurance and pensions,2026-01-01,35981.5,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Alcohol,2026-01-01,1570.79,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Water and other public services,2026-01-01,1177.72,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Groceries,2026-01-01,6259.14,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Electricity,2026-01-01,4315.51,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Lodging away from home,2026-01-01,17326.8,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Education,2026-01-01,59222.4,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Donations,2026-01-01,6812.65,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Apparel and services,2026-01-01,7992.34,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Household operations,2026-01-01,10936.9,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Miscellaneous,2026-01-01,11748.4,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Reading,2026-01-01,922.08,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Property taxes,2026-01-01,4393.27,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Household furnishings,2026-01-01,657.25,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Personal taxes,2026-01-01,256705,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Transportation,2026-01-01,22255.4,NA,NA,NA,NA,NA,NA
+pers_589639,5_financial,Mortgage payments,2026-01-01,20611.7,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Rented dwellings,2026-01-01,8433.51,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Home maintenance,2026-01-01,42.39,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Gifts,2026-01-01,-1273.93,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Healthcare,2026-01-01,10454,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Money income before taxes,2026-01-01,-22471.7,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Personal insurance and pensions,2026-01-01,3256.84,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Alcohol,2026-01-01,626.25,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Water and other public services,2026-01-01,709.74,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Groceries,2026-01-01,323.75,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Electricity,2026-01-01,803.27,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Education,2026-01-01,5401.11,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Restaurants,2026-01-01,566.66,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Telephone services,2026-01-01,1055.24,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Apparel and services,2026-01-01,1263.37,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Household operations,2026-01-01,1860.01,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Miscellaneous,2026-01-01,1056.28,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Reading,2026-01-01,572.39,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Property taxes,2026-01-01,2654.76,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Personal care products and services,2026-01-01,1258.56,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Household furnishings,2026-01-01,2025.14,NA,NA,NA,NA,NA,NA
+pers_530528,5_financial,Personal taxes,2026-01-01,3136.11,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Rented dwellings,2026-01-01,32074,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Gifts,2026-01-01,-23825.6,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Money income before taxes,2026-01-01,-619963,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Personal insurance and pensions,2026-01-01,19509.3,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Alcohol,2026-01-01,707.75,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Water and other public services,2026-01-01,2812.2,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Groceries,2026-01-01,1346.38,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Electricity,2026-01-01,1827.44,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Lodging away from home,2026-01-01,8451.08,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Housekeeping supplies,2026-01-01,179.25,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Telephone services,2026-01-01,6537.83,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Household operations,2026-01-01,7422.71,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Miscellaneous,2026-01-01,5502.61,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Reading,2026-01-01,419.71,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Household furnishings,2026-01-01,1568.36,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Personal taxes,2026-01-01,288399,NA,NA,NA,NA,NA,NA
+pers_635706,5_financial,Transportation,2026-01-01,12879,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Rented dwellings,2026-01-01,3877.78,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Home maintenance,2026-01-01,3898,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Healthcare,2026-01-01,3164.62,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Money income before taxes,2026-01-01,-9945.27,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Personal insurance and pensions,2026-01-01,3425.74,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Alcohol,2026-01-01,190.9,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Water and other public services,2026-01-01,944.51,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Groceries,2026-01-01,2351.23,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Lodging away from home,2026-01-01,3472.76,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Housekeeping supplies,2026-01-01,2016.75,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Restaurants,2026-01-01,5981.19,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Apparel and services,2026-01-01,541.23,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Household operations,2026-01-01,2715.88,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Miscellaneous,2026-01-01,1124.28,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Reading,2026-01-01,755.36,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Property taxes,2026-01-01,1088.3,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Personal care products and services,2026-01-01,1277.89,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Household furnishings,2026-01-01,546.79,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Personal taxes,2026-01-01,902.7,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Transportation,2026-01-01,989.2,NA,NA,NA,NA,NA,NA
+pers_490041,5_financial,Mortgage payments,2026-01-01,309.48,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Rented dwellings,2026-01-01,8432.04,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Gifts,2026-01-01,-2533.31,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Money income before taxes,2026-01-01,-25798.3,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Personal insurance and pensions,2026-01-01,4869.66,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Alcohol,2026-01-01,477.21,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Water and other public services,2026-01-01,991.31,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Groceries,2026-01-01,1022.79,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Electricity,2026-01-01,1592.45,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Lodging away from home,2026-01-01,2292.69,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Housekeeping supplies,2026-01-01,575.81,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Restaurants,2026-01-01,2100.87,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Telephone services,2026-01-01,507.66,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Donations,2026-01-01,864.5,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Household operations,2026-01-01,3608.19,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Miscellaneous,2026-01-01,11532.2,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Reading,2026-01-01,109.57,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Household furnishings,2026-01-01,2609.97,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Personal taxes,2026-01-01,-1916.13,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Transportation,2026-01-01,8023.05,NA,NA,NA,NA,NA,NA
+pers_554431,5_financial,Mortgage payments,2026-01-01,4588.96,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Rented dwellings,2026-01-01,15128.2,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Home maintenance,2026-01-01,2378.96,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Gifts,2026-01-01,-4527.75,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Healthcare,2026-01-01,11521.2,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Money income before taxes,2026-01-01,-87411.8,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Personal insurance and pensions,2026-01-01,14199.5,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Alcohol,2026-01-01,1287.62,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Water and other public services,2026-01-01,1200.8,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Groceries,2026-01-01,5424.06,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Electricity,2026-01-01,1734.92,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Lodging away from home,2026-01-01,4308.22,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Education,2026-01-01,573.69,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Housekeeping supplies,2026-01-01,3138.12,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Restaurants,2026-01-01,2612.14,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Household operations,2026-01-01,4236.9,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Miscellaneous,2026-01-01,5658.37,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Property taxes,2026-01-01,801.56,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Household furnishings,2026-01-01,3394.47,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Personal taxes,2026-01-01,6039.55,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Transportation,2026-01-01,33836.2,NA,NA,NA,NA,NA,NA
+pers_599956,5_financial,Mortgage payments,2026-01-01,4397.31,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Rented dwellings,2026-01-01,2836.39,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Money income before taxes,2026-01-01,-11191.5,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Alcohol,2026-01-01,239.28,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Water and other public services,2026-01-01,928.67,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Groceries,2026-01-01,2976.7,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Electricity,2026-01-01,1503.23,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Lodging away from home,2026-01-01,1392.07,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Education,2026-01-01,1673.49,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Housekeeping supplies,2026-01-01,729.47,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Restaurants,2026-01-01,695.41,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Apparel and services,2026-01-01,2325.96,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Household operations,2026-01-01,3830.14,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Reading,2026-01-01,409.84,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Personal care products and services,2026-01-01,730.67,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Household furnishings,2026-01-01,350.38,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Personal taxes,2026-01-01,201.24,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Transportation,2026-01-01,4154.76,NA,NA,NA,NA,NA,NA
+pers_566342,5_financial,Mortgage payments,2026-01-01,1246.31,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Rented dwellings,2026-01-01,5458.02,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Home maintenance,2026-01-01,3302.11,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Gifts,2026-01-01,-1688.22,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Healthcare,2026-01-01,7279.05,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Money income before taxes,2026-01-01,-8328.29,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Personal insurance and pensions,2026-01-01,3345.4,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Alcohol,2026-01-01,706.38,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Water and other public services,2026-01-01,2555.54,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Groceries,2026-01-01,6392.63,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Lodging away from home,2026-01-01,1499.5,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Telephone services,2026-01-01,479.26,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Donations,2026-01-01,4817.44,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Reading,2026-01-01,60.39,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Property taxes,2026-01-01,1464.26,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Household furnishings,2026-01-01,1129.58,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Personal taxes,2026-01-01,-1057.83,NA,NA,NA,NA,NA,NA
+pers_548513,5_financial,Mortgage payments,2026-01-01,989.89,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Rented dwellings,2026-01-01,11194.7,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Home maintenance,2026-01-01,937.43,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Gifts,2026-01-01,-1282.76,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Healthcare,2026-01-01,1584.35,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Money income before taxes,2026-01-01,-26766.3,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Personal insurance and pensions,2026-01-01,4545.13,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Alcohol,2026-01-01,50.84,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Water and other public services,2026-01-01,1671.82,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Groceries,2026-01-01,151.14,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Electricity,2026-01-01,607.33,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Lodging away from home,2026-01-01,2235.21,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Education,2026-01-01,121.9,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Restaurants,2026-01-01,1013.67,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Donations,2026-01-01,1123.79,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Apparel and services,2026-01-01,2716.78,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Miscellaneous,2026-01-01,7222.34,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Property taxes,2026-01-01,2032.53,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Personal care products and services,2026-01-01,147.47,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Household furnishings,2026-01-01,5174.1,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Personal taxes,2026-01-01,-2317.44,NA,NA,NA,NA,NA,NA
+pers_599057,5_financial,Mortgage payments,2026-01-01,3217.81,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Money income before taxes,2026-01-01,-10786,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Alcohol,2026-01-01,423.63,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Water and other public services,2026-01-01,1351.29,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Groceries,2026-01-01,6929.54,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Electricity,2026-01-01,462.8,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Lodging away from home,2026-01-01,2057.6,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Education,2026-01-01,5152.55,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Telephone services,2026-01-01,276.35,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Donations,2026-01-01,3047.35,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Apparel and services,2026-01-01,4470.49,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Miscellaneous,2026-01-01,1230.07,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Personal care products and services,2026-01-01,55.9,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Household furnishings,2026-01-01,1626.36,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Personal taxes,2026-01-01,2087.31,NA,NA,NA,NA,NA,NA
+pers_568093,5_financial,Mortgage payments,2026-01-01,1770.99,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Gifts,2026-01-01,-453.32,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Money income before taxes,2026-01-01,-51492.7,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Personal insurance and pensions,2026-01-01,1167.72,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Alcohol,2026-01-01,534.04,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Water and other public services,2026-01-01,1702.6,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Groceries,2026-01-01,2991.42,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Electricity,2026-01-01,1601.52,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Education,2026-01-01,3184.21,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Housekeeping supplies,2026-01-01,1845.19,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Restaurants,2026-01-01,1784.67,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Donations,2026-01-01,4296.71,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Apparel and services,2026-01-01,3261.55,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Reading,2026-01-01,763.63,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Personal care products and services,2026-01-01,699.42,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Household furnishings,2026-01-01,1690.82,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Personal taxes,2026-01-01,-3442.81,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Transportation,2026-01-01,6587.65,NA,NA,NA,NA,NA,NA
+pers_464459,5_financial,Mortgage payments,2026-01-01,5937.72,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Tobacco,2026-01-01,197.19,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Gifts,2026-01-01,-1388.78,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Money income before taxes,2026-01-01,-30019.9,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Personal insurance and pensions,2026-01-01,2739.08,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Alcohol,2026-01-01,39.34,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Water and other public services,2026-01-01,1448.59,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Groceries,2026-01-01,4378.48,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Education,2026-01-01,3826.62,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Housekeeping supplies,2026-01-01,377.01,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Telephone services,2026-01-01,698.17,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Household operations,2026-01-01,1576.24,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Miscellaneous,2026-01-01,5382.42,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Personal care products and services,2026-01-01,896.83,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Household furnishings,2026-01-01,4052.61,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Personal taxes,2026-01-01,5472.26,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Transportation,2026-01-01,34041.9,NA,NA,NA,NA,NA,NA
+pers_635665,5_financial,Mortgage payments,2026-01-01,461.46,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Gifts,2026-01-01,-556.31,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Money income before taxes,2026-01-01,-7508.97,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Personal insurance and pensions,2026-01-01,195.8,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Alcohol,2026-01-01,619.57,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Water and other public services,2026-01-01,199.86,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Groceries,2026-01-01,900.45,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Lodging away from home,2026-01-01,1383.94,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Education,2026-01-01,134.4,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Housekeeping supplies,2026-01-01,101.17,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Telephone services,2026-01-01,739.24,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Donations,2026-01-01,314.86,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Household operations,2026-01-01,229.05,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Reading,2026-01-01,134.02,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Household furnishings,2026-01-01,826.39,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Personal taxes,2026-01-01,-500.51,NA,NA,NA,NA,NA,NA
+pers_474199,5_financial,Transportation,2026-01-01,3106.61,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Gifts,2026-01-01,-1288.3,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Money income before taxes,2026-01-01,-10098.5,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Alcohol,2026-01-01,296.73,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Water and other public services,2026-01-01,464.59,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Groceries,2026-01-01,760.17,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Electricity,2026-01-01,750.34,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Lodging away from home,2026-01-01,2085.7,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Education,2026-01-01,48.06,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Housekeeping supplies,2026-01-01,227.9,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Restaurants,2026-01-01,873.6,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Telephone services,2026-01-01,606.11,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Donations,2026-01-01,923.51,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Apparel and services,2026-01-01,691.64,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Household operations,2026-01-01,233.2,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Miscellaneous,2026-01-01,1402.55,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Reading,2026-01-01,32.31,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Personal care products and services,2026-01-01,136.86,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Household furnishings,2026-01-01,1083.35,NA,NA,NA,NA,NA,NA
+pers_475130,5_financial,Personal taxes,2026-01-01,598.5,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Money income before taxes,2026-01-01,-7055.78,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Alcohol,2026-01-01,25.88,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Water and other public services,2026-01-01,498.56,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Groceries,2026-01-01,3494.46,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Electricity,2026-01-01,215.51,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Education,2026-01-01,5715.91,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Restaurants,2026-01-01,80.41,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Telephone services,2026-01-01,114.24,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Household operations,2026-01-01,762.62,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Miscellaneous,2026-01-01,3200.76,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Reading,2026-01-01,5.5,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Personal care products and services,2026-01-01,505.63,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Household furnishings,2026-01-01,512.2,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Personal taxes,2026-01-01,1413.95,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Transportation,2026-01-01,740.74,NA,NA,NA,NA,NA,NA
+pers_596193,5_financial,Mortgage payments,2026-01-01,5373.2,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Money income before taxes,2026-01-01,-2326.88,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Personal insurance and pensions,2026-01-01,101.93,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Alcohol,2026-01-01,57.7,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Water and other public services,2026-01-01,385.35,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Groceries,2026-01-01,1277.17,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Electricity,2026-01-01,607,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Lodging away from home,2026-01-01,564.31,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Housekeeping supplies,2026-01-01,276.28,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Restaurants,2026-01-01,496.73,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Telephone services,2026-01-01,480.73,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Donations,2026-01-01,878.76,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Miscellaneous,2026-01-01,1617.76,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Reading,2026-01-01,62.22,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Household furnishings,2026-01-01,349.8,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Personal taxes,2026-01-01,532.92,NA,NA,NA,NA,NA,NA
+pers_576641,5_financial,Transportation,2026-01-01,367.71,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Rented dwellings,2026-01-01,2681.86,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Home maintenance,2026-01-01,1078.75,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Money income before taxes,2026-01-01,-12586.9,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Personal insurance and pensions,2026-01-01,2912.89,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Alcohol,2026-01-01,114.69,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Water and other public services,2026-01-01,235.5,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Groceries,2026-01-01,1135.49,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Lodging away from home,2026-01-01,2474.91,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Housekeeping supplies,2026-01-01,489.54,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Restaurants,2026-01-01,94.05,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Telephone services,2026-01-01,382.99,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Donations,2026-01-01,820.04,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Household operations,2026-01-01,201.32,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Miscellaneous,2026-01-01,1870.79,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Reading,2026-01-01,152.14,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Property taxes,2026-01-01,1378.84,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Household furnishings,2026-01-01,333.88,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Personal taxes,2026-01-01,94.43,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Transportation,2026-01-01,3691.55,NA,NA,NA,NA,NA,NA
+pers_550361,5_financial,Mortgage payments,2026-01-01,626,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Rented dwellings,2026-01-01,583.52,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Home maintenance,2026-01-01,763.66,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Gifts,2026-01-01,-226.36,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Healthcare,2026-01-01,1823.5,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Money income before taxes,2026-01-01,-7392.6,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Personal insurance and pensions,2026-01-01,851.71,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Alcohol,2026-01-01,193.02,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Water and other public services,2026-01-01,436.8,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Groceries,2026-01-01,1409.48,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Electricity,2026-01-01,208.84,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Lodging away from home,2026-01-01,427.55,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Education,2026-01-01,4864.11,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Housekeeping supplies,2026-01-01,474.25,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Restaurants,2026-01-01,1561.97,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Telephone services,2026-01-01,316.86,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Donations,2026-01-01,693.07,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Apparel and services,2026-01-01,1471.99,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Miscellaneous,2026-01-01,1690.67,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Property taxes,2026-01-01,205.66,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Personal care products and services,2026-01-01,73.59,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Household furnishings,2026-01-01,522.83,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Personal taxes,2026-01-01,-168.12,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Transportation,2026-01-01,2870.09,NA,NA,NA,NA,NA,NA
+pers_463777,5_financial,Mortgage payments,2026-01-01,4575.82,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Natural gas,2026-01-01,566.76,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Rented dwellings,2026-01-01,4412.63,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Gifts,2026-01-01,-999.02,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Money income before taxes,2026-01-01,-22959,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Personal insurance and pensions,2026-01-01,1941.65,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Alcohol,2026-01-01,399.58,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Water and other public services,2026-01-01,613.32,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Groceries,2026-01-01,3795.32,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Electricity,2026-01-01,511.93,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Lodging away from home,2026-01-01,2217.83,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Housekeeping supplies,2026-01-01,1069.28,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Telephone services,2026-01-01,169.61,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Donations,2026-01-01,1643.03,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Household operations,2026-01-01,50.58,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Miscellaneous,2026-01-01,1933.55,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Personal care products and services,2026-01-01,431.16,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Household furnishings,2026-01-01,81.33,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Personal taxes,2026-01-01,319.93,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Transportation,2026-01-01,568.9,NA,NA,NA,NA,NA,NA
+pers_654763,5_financial,Mortgage payments,2026-01-01,1537.07,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Rented dwellings,2026-01-01,6042.72,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Home maintenance,2026-01-01,561.9,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Healthcare,2026-01-01,1056.71,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Money income before taxes,2026-01-01,-47106.5,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Personal insurance and pensions,2026-01-01,889.15,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Alcohol,2026-01-01,233.11,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Water and other public services,2026-01-01,388.16,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Groceries,2026-01-01,2032.07,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Electricity,2026-01-01,512.78,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Lodging away from home,2026-01-01,3011.76,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Education,2026-01-01,920.72,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Restaurants,2026-01-01,690.54,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Telephone services,2026-01-01,481.91,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Donations,2026-01-01,2047.56,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Apparel and services,2026-01-01,1647.79,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Household operations,2026-01-01,220.36,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Miscellaneous,2026-01-01,3689.19,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Reading,2026-01-01,119.01,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Property taxes,2026-01-01,1072.89,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Personal care products and services,2026-01-01,390.31,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Household furnishings,2026-01-01,1715.33,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Personal taxes,2026-01-01,7263.71,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Transportation,2026-01-01,9216.46,NA,NA,NA,NA,NA,NA
+pers_529922,5_financial,Mortgage payments,2026-01-01,1790.27,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Rented dwellings,2026-01-01,2267.03,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Home maintenance,2026-01-01,1307.49,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Gifts,2026-01-01,-75.86,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Healthcare,2026-01-01,2061.29,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Money income before taxes,2026-01-01,-19798.9,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Personal insurance and pensions,2026-01-01,960.36,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Alcohol,2026-01-01,54.66,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Water and other public services,2026-01-01,414.66,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Groceries,2026-01-01,2085.13,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Entertainment,2026-01-01,1092.76,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Lodging away from home,2026-01-01,1526.12,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Education,2026-01-01,554.65,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Restaurants,2026-01-01,1346.45,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Apparel and services,2026-01-01,1443.58,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Household operations,2026-01-01,581.21,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Miscellaneous,2026-01-01,3459.56,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Property taxes,2026-01-01,2836.08,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Personal care products and services,2026-01-01,507.66,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Household furnishings,2026-01-01,2708.54,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Personal taxes,2026-01-01,3118.43,NA,NA,NA,NA,NA,NA
+pers_599063,5_financial,Mortgage payments,2026-01-01,746.42,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Rented dwellings,2026-01-01,5301.05,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Home maintenance,2026-01-01,942.41,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Healthcare,2026-01-01,3331.5,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Money income before taxes,2026-01-01,-36123.4,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Personal insurance and pensions,2026-01-01,2796.56,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Alcohol,2026-01-01,170.12,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Water and other public services,2026-01-01,667.4,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Groceries,2026-01-01,567.63,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Electricity,2026-01-01,554.54,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Lodging away from home,2026-01-01,2927.57,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Education,2026-01-01,750.85,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Donations,2026-01-01,2215.35,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Apparel and services,2026-01-01,1981.13,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Miscellaneous,2026-01-01,2446.33,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Reading,2026-01-01,164.15,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Property taxes,2026-01-01,623.17,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Personal care products and services,2026-01-01,229.1,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Household furnishings,2026-01-01,347.59,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Personal taxes,2026-01-01,4579.47,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Transportation,2026-01-01,965.86,NA,NA,NA,NA,NA,NA
+pers_622296,5_financial,Mortgage payments,2026-01-01,19.92,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Tobacco,2026-01-01,1119.13,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Rented dwellings,2026-01-01,6106.78,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Home maintenance,2026-01-01,881.23,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Healthcare,2026-01-01,4200.84,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Money income before taxes,2026-01-01,-32518.9,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Personal insurance and pensions,2026-01-01,4880.51,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Alcohol,2026-01-01,343.32,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Water and other public services,2026-01-01,993.54,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Groceries,2026-01-01,2840.81,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Electricity,2026-01-01,711.5,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Entertainment,2026-01-01,1254.79,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Education,2026-01-01,739.49,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Housekeeping supplies,2026-01-01,732.21,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Restaurants,2026-01-01,3252.44,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Donations,2026-01-01,6308.05,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Apparel and services,2026-01-01,321.43,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Household operations,2026-01-01,1180.66,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Reading,2026-01-01,22.79,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Property taxes,2026-01-01,1984.33,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Personal care products and services,2026-01-01,913.17,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Household furnishings,2026-01-01,4962.24,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Personal taxes,2026-01-01,4388.86,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Transportation,2026-01-01,11068.6,NA,NA,NA,NA,NA,NA
+pers_512397,5_financial,Mortgage payments,2026-01-01,2487.82,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Rented dwellings,2026-01-01,5087.5,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Home maintenance,2026-01-01,1472.52,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Healthcare,2026-01-01,822.4,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Money income before taxes,2026-01-01,-18919.4,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Personal insurance and pensions,2026-01-01,1684.01,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Alcohol,2026-01-01,377.6,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Water and other public services,2026-01-01,224.81,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Groceries,2026-01-01,1684.21,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Electricity,2026-01-01,658.91,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Housekeeping supplies,2026-01-01,1094.45,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Restaurants,2026-01-01,75.77,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Telephone services,2026-01-01,130.79,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Donations,2026-01-01,1412.76,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Household operations,2026-01-01,125.63,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Miscellaneous,2026-01-01,2554.09,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Property taxes,2026-01-01,1702.58,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Personal care products and services,2026-01-01,45.08,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Household furnishings,2026-01-01,1858.42,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Personal taxes,2026-01-01,774.25,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Transportation,2026-01-01,7441.46,NA,NA,NA,NA,NA,NA
+pers_493044,5_financial,Mortgage payments,2026-01-01,1167.94,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Money income before taxes,2026-01-01,-49976.2,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Personal insurance and pensions,2026-01-01,5063.82,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Alcohol,2026-01-01,576.89,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Water and other public services,2026-01-01,1265.29,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Groceries,2026-01-01,3137.79,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Electricity,2026-01-01,1107.68,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Lodging away from home,2026-01-01,5302.38,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Education,2026-01-01,1441.09,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Housekeeping supplies,2026-01-01,720.36,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Restaurants,2026-01-01,4573.48,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Telephone services,2026-01-01,483.1,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Donations,2026-01-01,2658.66,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Apparel and services,2026-01-01,3429.01,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Household operations,2026-01-01,1882.53,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Miscellaneous,2026-01-01,2522.31,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Reading,2026-01-01,243.81,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Household furnishings,2026-01-01,725.17,NA,NA,NA,NA,NA,NA
+pers_592414,5_financial,Personal taxes,2026-01-01,-5471.99,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Gifts,2026-01-01,-596.72,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Money income before taxes,2026-01-01,-31934.9,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Alcohol,2026-01-01,749.74,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Water and other public services,2026-01-01,2391.69,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Groceries,2026-01-01,4273.66,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Entertainment,2026-01-01,196.03,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Lodging away from home,2026-01-01,9784.56,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Housekeeping supplies,2026-01-01,1557.66,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Restaurants,2026-01-01,1911.13,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Telephone services,2026-01-01,693.04,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Donations,2026-01-01,4613.15,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Miscellaneous,2026-01-01,2660.68,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Personal care products and services,2026-01-01,849.79,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Household furnishings,2026-01-01,3479.68,NA,NA,NA,NA,NA,NA
+pers_575704,5_financial,Personal taxes,2026-01-01,2255.94,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Gifts,2026-01-01,-304.79,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Money income before taxes,2026-01-01,-10753.8,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Personal insurance and pensions,2026-01-01,1787.56,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Alcohol,2026-01-01,558.05,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Water and other public services,2026-01-01,1805.45,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Groceries,2026-01-01,1269.47,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Electricity,2026-01-01,655.88,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Education,2026-01-01,5306.54,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Housekeeping supplies,2026-01-01,244.2,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Restaurants,2026-01-01,2434.08,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Telephone services,2026-01-01,386.83,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Donations,2026-01-01,986.55,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Miscellaneous,2026-01-01,586.73,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Reading,2026-01-01,499.85,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Personal care products and services,2026-01-01,620.87,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Household furnishings,2026-01-01,732.43,NA,NA,NA,NA,NA,NA
+pers_654981,5_financial,Personal taxes,2026-01-01,2151.07,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Gifts,2026-01-01,-1267.83,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Money income before taxes,2026-01-01,-3304.77,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Personal insurance and pensions,2026-01-01,477.89,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Alcohol,2026-01-01,132.1,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Water and other public services,2026-01-01,766.88,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Groceries,2026-01-01,366.2,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Lodging away from home,2026-01-01,1168.58,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Housekeeping supplies,2026-01-01,2274.47,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Restaurants,2026-01-01,976.38,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Telephone services,2026-01-01,779.37,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Donations,2026-01-01,2474.64,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Miscellaneous,2026-01-01,183.4,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Household furnishings,2026-01-01,440.95,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Personal taxes,2026-01-01,1543.6,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Transportation,2026-01-01,9070.65,NA,NA,NA,NA,NA,NA
+pers_575859,5_financial,Mortgage payments,2026-01-01,1296.75,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Gifts,2026-01-01,-1163.1,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Money income before taxes,2026-01-01,-6292.61,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Personal insurance and pensions,2026-01-01,3406.61,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Alcohol,2026-01-01,493.08,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Water and other public services,2026-01-01,2318.11,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Groceries,2026-01-01,5720.56,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Electricity,2026-01-01,1136.42,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Lodging away from home,2026-01-01,162.29,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Education,2026-01-01,7905.27,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Housekeeping supplies,2026-01-01,20.21,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Restaurants,2026-01-01,899.28,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Telephone services,2026-01-01,129.52,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Donations,2026-01-01,1315.33,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Apparel and services,2026-01-01,4161.23,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Reading,2026-01-01,426.58,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Personal care products and services,2026-01-01,422.5,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Household furnishings,2026-01-01,1259,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Personal taxes,2026-01-01,-1089.87,NA,NA,NA,NA,NA,NA
+pers_640464,5_financial,Mortgage payments,2026-01-01,3780.69,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Natural gas,2026-01-01,4118.47,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Rented dwellings,2026-01-01,34840.3,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Gifts,2026-01-01,-7190.11,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Money income before taxes,2026-01-01,-900735,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Personal insurance and pensions,2026-01-01,62750.4,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Alcohol,2026-01-01,238.75,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Water and other public services,2026-01-01,1721.87,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Groceries,2026-01-01,6060.91,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Electricity,2026-01-01,4593.29,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Lodging away from home,2026-01-01,20056.8,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Housekeeping supplies,2026-01-01,1137.66,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Telephone services,2026-01-01,3425.98,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Donations,2026-01-01,11587.2,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Apparel and services,2026-01-01,14641.3,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Household operations,2026-01-01,11493.8,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Miscellaneous,2026-01-01,12163.6,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Household furnishings,2026-01-01,8086.96,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Personal taxes,2026-01-01,9231.82,NA,NA,NA,NA,NA,NA
+pers_505722,5_financial,Mortgage payments,2026-01-01,9236.96,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Rented dwellings,2026-01-01,18476.7,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Gifts,2026-01-01,-3161.42,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Money income before taxes,2026-01-01,-121149,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Alcohol,2026-01-01,461.18,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Water and other public services,2026-01-01,1589.03,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Groceries,2026-01-01,18128.6,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Electricity,2026-01-01,3709.53,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Lodging away from home,2026-01-01,6858.84,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Education,2026-01-01,8669.64,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Restaurants,2026-01-01,1775.55,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Telephone services,2026-01-01,286.56,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Donations,2026-01-01,8511.84,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Apparel and services,2026-01-01,5037.65,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Household operations,2026-01-01,3021.52,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Miscellaneous,2026-01-01,5355.92,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Reading,2026-01-01,436.23,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Personal care products and services,2026-01-01,2229.71,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Household furnishings,2026-01-01,1112.61,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Personal taxes,2026-01-01,20241.9,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Transportation,2026-01-01,14630.5,NA,NA,NA,NA,NA,NA
+pers_517273,5_financial,Mortgage payments,2026-01-01,1370.28,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Rented dwellings,2026-01-01,12542.5,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Money income before taxes,2026-01-01,-69256.8,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Personal insurance and pensions,2026-01-01,14538.3,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Alcohol,2026-01-01,883.83,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Water and other public services,2026-01-01,1166.8,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Groceries,2026-01-01,2904.37,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Electricity,2026-01-01,1376.82,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Housekeeping supplies,2026-01-01,598.14,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Restaurants,2026-01-01,5422.26,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Donations,2026-01-01,5061.07,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Apparel and services,2026-01-01,7666.8,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Household operations,2026-01-01,905.48,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Miscellaneous,2026-01-01,4242.92,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Reading,2026-01-01,260.88,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Personal care products and services,2026-01-01,1609.83,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Household furnishings,2026-01-01,794.47,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Personal taxes,2026-01-01,15251,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Transportation,2026-01-01,39657.7,NA,NA,NA,NA,NA,NA
+pers_492286,5_financial,Mortgage payments,2026-01-01,72.49,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Natural gas,2026-01-01,1323.6,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Rented dwellings,2026-01-01,3939.83,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Money income before taxes,2026-01-01,-5807.39,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Personal insurance and pensions,2026-01-01,2846.66,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Alcohol,2026-01-01,884.99,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Water and other public services,2026-01-01,2423.74,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Groceries,2026-01-01,375.3,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Electricity,2026-01-01,587.83,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Lodging away from home,2026-01-01,0.46,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Education,2026-01-01,450.03,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Housekeeping supplies,2026-01-01,274.65,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Restaurants,2026-01-01,3215.16,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Telephone services,2026-01-01,76.17,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Donations,2026-01-01,917.55,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Household operations,2026-01-01,5236.45,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Miscellaneous,2026-01-01,2976.51,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Reading,2026-01-01,559.3,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Household furnishings,2026-01-01,410.44,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Personal taxes,2026-01-01,-3209.39,NA,NA,NA,NA,NA,NA
+pers_636961,5_financial,Mortgage payments,2026-01-01,2524.68,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Rented dwellings,2026-01-01,15868.4,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Home maintenance,2026-01-01,5580.8,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Gifts,2026-01-01,-209.3,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Healthcare,2026-01-01,5688.59,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Money income before taxes,2026-01-01,-76722.1,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Personal insurance and pensions,2026-01-01,17179,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Alcohol,2026-01-01,574.26,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Water and other public services,2026-01-01,1991.54,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Groceries,2026-01-01,2665.72,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Electricity,2026-01-01,690.53,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Education,2026-01-01,1689.51,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Telephone services,2026-01-01,1317.79,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Donations,2026-01-01,3426.73,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Miscellaneous,2026-01-01,2200.13,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Reading,2026-01-01,578.66,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Property taxes,2026-01-01,4046.65,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Household furnishings,2026-01-01,985.43,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Personal taxes,2026-01-01,12330.7,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Transportation,2026-01-01,5599.51,NA,NA,NA,NA,NA,NA
+pers_570411,5_financial,Mortgage payments,2026-01-01,2276.97,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Gifts,2026-01-01,-467.09,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Money income before taxes,2026-01-01,-11546.5,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Personal insurance and pensions,2026-01-01,699.55,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Alcohol,2026-01-01,182.71,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Water and other public services,2026-01-01,216.96,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Groceries,2026-01-01,785.52,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Electricity,2026-01-01,656.77,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Lodging away from home,2026-01-01,1949.02,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Education,2026-01-01,325.56,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Housekeeping supplies,2026-01-01,691.26,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Restaurants,2026-01-01,1906.6,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Donations,2026-01-01,802.67,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Miscellaneous,2026-01-01,1189.79,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Household furnishings,2026-01-01,1553.68,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Personal taxes,2026-01-01,1131.2,NA,NA,NA,NA,NA,NA
+pers_623295,5_financial,Mortgage payments,2026-01-01,1099.51,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Rented dwellings,2026-01-01,2838.79,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Money income before taxes,2026-01-01,-9732.82,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Personal insurance and pensions,2026-01-01,1073.08,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Alcohol,2026-01-01,124.26,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Water and other public services,2026-01-01,360.75,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Groceries,2026-01-01,611.56,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Electricity,2026-01-01,128.47,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Lodging away from home,2026-01-01,1598.66,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Telephone services,2026-01-01,185.63,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Apparel and services,2026-01-01,535.22,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Household operations,2026-01-01,815.28,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Miscellaneous,2026-01-01,1619.79,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Reading,2026-01-01,146.65,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Personal care products and services,2026-01-01,147.32,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Household furnishings,2026-01-01,1461.98,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Personal taxes,2026-01-01,-947.58,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Transportation,2026-01-01,6491.57,NA,NA,NA,NA,NA,NA
+pers_492777,5_financial,Mortgage payments,2026-01-01,1518.45,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Rented dwellings,2026-01-01,4249.15,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Gifts,2026-01-01,-1091.21,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Money income before taxes,2026-01-01,-21204.9,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Personal insurance and pensions,2026-01-01,2015.43,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Alcohol,2026-01-01,73.2,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Water and other public services,2026-01-01,889.2,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Groceries,2026-01-01,2575.65,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Electricity,2026-01-01,312.96,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Lodging away from home,2026-01-01,2726.24,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Education,2026-01-01,1563.82,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Restaurants,2026-01-01,654.51,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Telephone services,2026-01-01,245.42,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Apparel and services,2026-01-01,2484.21,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Household operations,2026-01-01,192.93,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Miscellaneous,2026-01-01,1856.92,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Personal care products and services,2026-01-01,281.98,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Household furnishings,2026-01-01,478.91,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Personal taxes,2026-01-01,843.46,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Transportation,2026-01-01,4168.46,NA,NA,NA,NA,NA,NA
+pers_629717,5_financial,Mortgage payments,2026-01-01,296.54,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Rented dwellings,2026-01-01,4144.78,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Home maintenance,2026-01-01,1101.4,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Gifts,2026-01-01,-525.02,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Healthcare,2026-01-01,4874.08,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Money income before taxes,2026-01-01,-54333.1,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Personal insurance and pensions,2026-01-01,536.87,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Alcohol,2026-01-01,768.82,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Water and other public services,2026-01-01,382.45,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Groceries,2026-01-01,4093.29,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Electricity,2026-01-01,631.99,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Education,2026-01-01,1369.2,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Housekeeping supplies,2026-01-01,1399.54,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Restaurants,2026-01-01,266.52,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Donations,2026-01-01,2099.77,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Apparel and services,2026-01-01,2810.98,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Miscellaneous,2026-01-01,5503.51,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Reading,2026-01-01,218.21,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Property taxes,2026-01-01,814.8,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Personal care products and services,2026-01-01,488.63,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Household furnishings,2026-01-01,669.18,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Personal taxes,2026-01-01,9247.45,NA,NA,NA,NA,NA,NA
+pers_502591,5_financial,Mortgage payments,2026-01-01,2572.76,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Tobacco,2026-01-01,273.24,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Rented dwellings,2026-01-01,8464.39,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Gifts,2026-01-01,-1702.37,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Money income before taxes,2026-01-01,-202871,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Personal insurance and pensions,2026-01-01,2942.39,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Alcohol,2026-01-01,87.4,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Water and other public services,2026-01-01,629.72,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Groceries,2026-01-01,3574.6,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Electricity,2026-01-01,808.95,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Entertainment,2026-01-01,534.52,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Lodging away from home,2026-01-01,5383.92,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Housekeeping supplies,2026-01-01,647.27,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Restaurants,2026-01-01,3093.55,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Telephone services,2026-01-01,2682.75,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Donations,2026-01-01,2875.99,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Household operations,2026-01-01,1345.06,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Miscellaneous,2026-01-01,3718.44,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Reading,2026-01-01,604.29,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Personal care products and services,2026-01-01,1512.55,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Household furnishings,2026-01-01,97.31,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Personal taxes,2026-01-01,73919,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Transportation,2026-01-01,7133.86,NA,NA,NA,NA,NA,NA
+pers_569820,5_financial,Mortgage payments,2026-01-01,6704.79,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Tobacco,2026-01-01,1502.74,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Rented dwellings,2026-01-01,5662.73,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Home maintenance,2026-01-01,678.13,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Healthcare,2026-01-01,986.71,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Money income before taxes,2026-01-01,-25608.4,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Alcohol,2026-01-01,218.03,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Water and other public services,2026-01-01,622.49,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Groceries,2026-01-01,3245.92,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Electricity,2026-01-01,946.77,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Lodging away from home,2026-01-01,1180.7,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Housekeeping supplies,2026-01-01,712.92,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Restaurants,2026-01-01,2053.41,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Telephone services,2026-01-01,220.8,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Donations,2026-01-01,2019.74,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Apparel and services,2026-01-01,943.81,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Household operations,2026-01-01,599.59,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Property taxes,2026-01-01,1694.31,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Personal care products and services,2026-01-01,806.75,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Household furnishings,2026-01-01,2644.97,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Personal taxes,2026-01-01,6090.91,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Transportation,2026-01-01,4091.49,NA,NA,NA,NA,NA,NA
+pers_591682,5_financial,Mortgage payments,2026-01-01,137.73,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Rented dwellings,2026-01-01,4811.33,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Gifts,2026-01-01,-489.09,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Money income before taxes,2026-01-01,-28528.2,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Alcohol,2026-01-01,303.25,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Water and other public services,2026-01-01,790.06,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Groceries,2026-01-01,1224.3,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Electricity,2026-01-01,658.42,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Lodging away from home,2026-01-01,2231.39,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Restaurants,2026-01-01,1608.67,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Telephone services,2026-01-01,915.47,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Donations,2026-01-01,1996.2,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Apparel and services,2026-01-01,1118.52,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Miscellaneous,2026-01-01,822.59,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Household furnishings,2026-01-01,1302.15,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Personal taxes,2026-01-01,3720.79,NA,NA,NA,NA,NA,NA
+pers_632150,5_financial,Mortgage payments,2026-01-01,803.32,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Rented dwellings,2026-01-01,6218.94,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Home maintenance,2026-01-01,540.85,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Gifts,2026-01-01,-637.05,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Money income before taxes,2026-01-01,-43606.4,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Personal insurance and pensions,2026-01-01,9865.87,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Alcohol,2026-01-01,142.08,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Water and other public services,2026-01-01,510.26,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Groceries,2026-01-01,3407.94,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Electricity,2026-01-01,824.91,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Lodging away from home,2026-01-01,2521.46,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Restaurants,2026-01-01,1136.81,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Donations,2026-01-01,4913.07,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Miscellaneous,2026-01-01,2707.57,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Property taxes,2026-01-01,1036.27,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Personal care products and services,2026-01-01,360.95,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Household furnishings,2026-01-01,821.76,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Personal taxes,2026-01-01,8076.13,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Transportation,2026-01-01,7832.08,NA,NA,NA,NA,NA,NA
+pers_616050,5_financial,Mortgage payments,2026-01-01,1670.72,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Rented dwellings,2026-01-01,3150.22,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Gifts,2026-01-01,-235.04,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Money income before taxes,2026-01-01,-14701.4,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Personal insurance and pensions,2026-01-01,534.56,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Alcohol,2026-01-01,96.46,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Water and other public services,2026-01-01,279.66,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Groceries,2026-01-01,1314.31,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Electricity,2026-01-01,507.01,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Education,2026-01-01,530.6,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Housekeeping supplies,2026-01-01,497.08,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Apparel and services,2026-01-01,239.94,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Household operations,2026-01-01,1131.24,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Miscellaneous,2026-01-01,1741.49,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Reading,2026-01-01,85.16,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Personal care products and services,2026-01-01,290.73,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Household furnishings,2026-01-01,1516.94,NA,NA,NA,NA,NA,NA
+pers_533140,5_financial,Personal taxes,2026-01-01,333.78,NA,NA,NA,NA,NA,NA
