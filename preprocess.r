@@ -140,15 +140,9 @@ refdata.nodetypes.load <- function( path )
 
 
 
-
-
-
-
 nodetypes <- refdata.get.path.full() %>%
     refdata.nodetypes.load() %>%
     refdata.process.types()
-
-
 
 
 g2 <- graph.get.path.candidate( 1 ) %>%
@@ -159,7 +153,25 @@ g2 <- graph.get.path.candidate( 1 ) %>%
     graph.process.prefixTypes( nodetypes )
 
 
+g3 <- g2 %>% filter(eType=='5_financial')
 
+
+g3 %>% colnames()
+
+
+g4 <- g3 %>% rowwise() %>%
+    dplyr::mutate( Weight=ifelse( toString( Source ) %>% startsWith( 'pers_' ), Weight, -Weight ) )
+
+g4[ g4$Weight<0 ,c('Source', 'Target')] <- g4[ g4$Weight<0 ,c('Target', 'Source')]
+
+
+
+mutate_if()
+
+g3[g3$Source %>% toString() %>% startsWith( 'pers_' ),  ]
+
+
+g4$aaa %>% unique()
 
 
 ##########################################
