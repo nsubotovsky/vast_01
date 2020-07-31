@@ -177,7 +177,7 @@ for (i in 1:5)
     path <- graph.get.path.candidate( i )
     sprintf('Working on %s', path) %>% print()
     
-    graph <- graph.get.path.candidate( 1 ) %>%
+    graph <- graph.get.path.candidate( i ) %>%
         graph.load() %>%
         graph.process.edges() %>%
         graph.process.dates() %>%
